@@ -1,6 +1,6 @@
 # PLSQL-Collections-Records-GOTO-Tlhohonolofatso-Semelane
 
-### Student: Tlhohonolofatso Temana Semelane
+### Student: Tlhohonolofatso Temana Semelane 27293
 ### Course: Database Development with PL/SQL (INSY 8311)
 ### Instructor: Eric Maniraguha
 ### Date: 2025-11-09
@@ -41,7 +41,8 @@
 
 ## Procedure 3 - GOTO
 
-<img width="959" height="505" alt="goto" src="https://github.com/user-attachments/assets/6931726a-f601-4798-8be0-4372c705d33b" />
+<img width="959" height="533" alt="goto" src="https://github.com/user-attachments/assets/96b907b4-ed9d-43ff-a743-0420234b52b4" />
+
 
 # Outcome
 ## The procedures worked successfully:
