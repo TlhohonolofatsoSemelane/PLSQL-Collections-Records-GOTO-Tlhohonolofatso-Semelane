@@ -1,16 +1,16 @@
 # PLSQL-Collections-Records-GOTO-Tlhohonolofatso-Semelane
 
-Student: Tlhohonolofatso Temana Semelane
-Course: Database Development with PL/SQL (INSY 8311)
-Instructor: Eric Maniraguha
-Date: 2025-11-09
+### Student: Tlhohonolofatso Temana Semelane
+### Course: Database Development with PL/SQL (INSY 8311)
+### Instructor: Eric Maniraguha
+### Date: 2025-11-09
 
 1️⃣ Problem Definition
 Problem Title: Employee Bonus Management System
 
 A company needs a system to calculate bonuses for employees. The system should:
 
-Store lists of departments that get bonuses (Collections)
+Store multiple employee salary values for processing (Collections)
 
 Keep employee information together (Records)
 
