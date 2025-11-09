@@ -5,29 +5,29 @@
 ### Instructor: Eric Maniraguha
 ### Date: 2025-11-09
 
-1️⃣ Problem Definition
-Problem Title: Employee Bonus Management System
+# 1️⃣ Problem Definition
+## Problem Title: Employee Bonus Management System
 
-A company needs a system to calculate bonuses for employees. The system should:
+### A company needs a system to calculate bonuses for employees. The system should:
 
-Store multiple employee salary values for processing (Collections)
+### Store multiple employee salary values for processing (Collections)
 
-Keep employee information together (Records)
+### Keep employee information together (Records)
 
-Skip employees with problems like zero salary (GOTO)
+### Skip employees with problems like zero salary (GOTO)
 
-The system will calculate bonuses based on employee performance ratings and salaries.
+### The system will calculate bonuses based on employee performance ratings and salaries.
 
-2️⃣ Objectives
-Create tables for employees and bonus records
+# 2️⃣ Objectives
+### Create tables for employees and bonus records
 
-Use PL/SQL with Collections, Records, and GOTO
+### Use PL/SQL with Collections, Records, and GOTO
 
-Calculate bonuses for good performers
+### Calculate bonuses for good performers
 
-Handle errors when data is bad
+### Handle errors when data is bad
 
-Show results clearly
+### Show results clearly
 
 # PROCEDURES
 
